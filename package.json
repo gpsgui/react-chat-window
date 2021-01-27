@@ -18,6 +18,7 @@
     "gh:publish": "nwb build-demo && gh-pages -d demo/dist"
   },
   "dependencies": {
+    "adaptivecards": "^2.6.0",
     "emoji-js": "3.2.2",
     "gh-pages": "^1.2.0",
     "prop-types": "15.5.10",
